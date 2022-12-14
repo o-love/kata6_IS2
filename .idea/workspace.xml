@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10df3b50-89b4-4cdd-a4b5-96b8b38c9484" name="Changes" comment="Finish JSON Loading to Object">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/glassfish_jaxb_runtime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jakarta_xml_bind_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javax_xml_bind_jaxb_api.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kata6_IS2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kata6_IS2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Elixir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Elixir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="10df3b50-89b4-4cdd-a4b5-96b8b38c9484" name="Changes" comment="Done parsing into XML" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +88,7 @@
       <workItem from="1670063929045" duration="13000" />
       <workItem from="1670412200816" duration="1533000" />
       <workItem from="1670527049000" duration="3637000" />
-      <workItem from="1670603062598" duration="1722000" />
+      <workItem from="1670603062598" duration="1968000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1669930076534</created>
@@ -119,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670412482333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done parsing into XML">
+      <created>1670606161834</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670606161834</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +139,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Setup commit" />
     <MESSAGE value="Finish JSON Loading to Object" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish JSON Loading to Object" />
+    <MESSAGE value="Done parsing into XML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done parsing into XML" />
   </component>
 </project>
